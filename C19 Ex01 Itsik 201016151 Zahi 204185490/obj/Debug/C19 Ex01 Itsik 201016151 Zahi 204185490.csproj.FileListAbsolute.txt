@@ -1,0 +1,12 @@
+C:\Users\איציק\source\repos\C19 Ex01 ItsikHarari 201016151 ZahiPinhas 204185490\C19 Ex01 Itsik 201016151 Zahi 204185490\bin\Debug\C19 Ex01 Itsik 201016151 Zahi 204185490.exe
+C:\Users\איציק\source\repos\C19 Ex01 ItsikHarari 201016151 ZahiPinhas 204185490\C19 Ex01 Itsik 201016151 Zahi 204185490\bin\Debug\C19 Ex01 Itsik 201016151 Zahi 204185490.pdb
+C:\Users\איציק\source\repos\C19 Ex01 ItsikHarari 201016151 ZahiPinhas 204185490\C19 Ex01 Itsik 201016151 Zahi 204185490\bin\Debug\Facebook.dll
+C:\Users\איציק\source\repos\C19 Ex01 ItsikHarari 201016151 ZahiPinhas 204185490\C19 Ex01 Itsik 201016151 Zahi 204185490\bin\Debug\FbGraphApiWrapper.dll
+C:\Users\איציק\source\repos\C19 Ex01 ItsikHarari 201016151 ZahiPinhas 204185490\C19 Ex01 Itsik 201016151 Zahi 204185490\obj\Debug\C19 Ex01 Itsik 201016151 Zahi 204185490.csprojAssemblyReference.cache
+C:\Users\איציק\source\repos\C19 Ex01 ItsikHarari 201016151 ZahiPinhas 204185490\C19 Ex01 Itsik 201016151 Zahi 204185490\obj\Debug\C19_Ex01_Itsik_201016151_Zahi_204185490.Form1.resources
+C:\Users\איציק\source\repos\C19 Ex01 ItsikHarari 201016151 ZahiPinhas 204185490\C19 Ex01 Itsik 201016151 Zahi 204185490\obj\Debug\C19_Ex01_Itsik_201016151_Zahi_204185490.Properties.Resources.resources
+C:\Users\איציק\source\repos\C19 Ex01 ItsikHarari 201016151 ZahiPinhas 204185490\C19 Ex01 Itsik 201016151 Zahi 204185490\obj\Debug\C19 Ex01 Itsik 201016151 Zahi 204185490.csproj.GenerateResource.cache
+C:\Users\איציק\source\repos\C19 Ex01 ItsikHarari 201016151 ZahiPinhas 204185490\C19 Ex01 Itsik 201016151 Zahi 204185490\obj\Debug\C19 Ex01 Itsik 201016151 Zahi 204185490.csproj.CoreCompileInputs.cache
+C:\Users\איציק\source\repos\C19 Ex01 ItsikHarari 201016151 ZahiPinhas 204185490\C19 Ex01 Itsik 201016151 Zahi 204185490\obj\Debug\C19 Ex01 Itsik 201016151 Zahi 204185490.csproj.CopyComplete
+C:\Users\איציק\source\repos\C19 Ex01 ItsikHarari 201016151 ZahiPinhas 204185490\C19 Ex01 Itsik 201016151 Zahi 204185490\obj\Debug\C19 Ex01 Itsik 201016151 Zahi 204185490.exe
+C:\Users\איציק\source\repos\C19 Ex01 ItsikHarari 201016151 ZahiPinhas 204185490\C19 Ex01 Itsik 201016151 Zahi 204185490\obj\Debug\C19 Ex01 Itsik 201016151 Zahi 204185490.pdb
